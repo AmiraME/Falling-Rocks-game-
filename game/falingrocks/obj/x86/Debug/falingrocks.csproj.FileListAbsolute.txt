@@ -1,0 +1,4 @@
+C:\Users\Magic\Desktop\game\falingrocks\bin\Debug\falingrocks.exe
+C:\Users\Magic\Desktop\game\falingrocks\bin\Debug\falingrocks.pdb
+C:\Users\Magic\Desktop\game\falingrocks\obj\x86\Debug\falingrocks.exe
+C:\Users\Magic\Desktop\game\falingrocks\obj\x86\Debug\falingrocks.pdb
